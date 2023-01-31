@@ -14,6 +14,6 @@ JOCKI
   </head>
   <body>
     <h1>Hej, det här är en rolig sida!</h1>
-    <img src="https://i.imgur.com/YWG5v7j.jpg" alt="Rolig kattbild">
+    <img src="C:\Users\magnu\OneDrive\Dokument\GitHub\Grupp-5\katt.jpg" alt="Rolig kattbild">
   </body>
 </html>
