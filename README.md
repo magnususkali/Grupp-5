@@ -2,3 +2,5 @@
 Grupp 5 grafisk design
 
 Vi kommer skapa en design för projektet som klassen gör.
+
+Jag ser dig <o>
